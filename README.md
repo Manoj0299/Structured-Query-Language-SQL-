@@ -1,6 +1,5 @@
 # Structured-Query-Language-SQL-
 
-Questions?
 Create a database for EMPLOYEE MANAGEMENT using sql , use primary and foreign key .
 
 1. Create COLLECTION EMP_INFO with following fields (W_ID,F_NAME, L_NAME,JOIN_DATE, DOB,  GENDER,DEPARTMENTID) 
